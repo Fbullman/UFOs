@@ -1,6 +1,6 @@
+![This is an image](https://github.com/Fbullman/UFOs/blob/main/static/images/nasa.jpg
+
 # UFOs
-
-
-Th purpose of this project was to build an interactive webpage with UFO sighting data. 
+The purpose of this project was to build an interactive webpage with UFO sighting data. 
 
 
