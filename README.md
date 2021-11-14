@@ -5,7 +5,7 @@ The purpose of this project was to build an interactive webpage with UFO sightin
 
 ## Results
 The image bellow shows the user input for city:
-![This is an image](https://github.com/Fbullman/UFOs/blob/main/static/images/nasaSS.jpg)
+![This is an image](https://github.com/Fbullman/UFOs/blob/main/static/images/El%20Cajon.png)
 
 The image bellow shows the user input for date:
 ![This is an image](https://github.com/Fbullman/UFOs/blob/main/static/images/nasaSS.jpg)
